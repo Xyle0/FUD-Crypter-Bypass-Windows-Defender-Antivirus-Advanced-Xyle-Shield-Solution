@@ -1,7 +1,7 @@
 using System;
 using System.Windows.Forms;
 
-namespace authguard
+namespace authguard1
 {
     public partial class Login : MetroFramework.Forms.MetroForm
     {
